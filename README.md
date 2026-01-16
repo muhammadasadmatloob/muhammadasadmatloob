@@ -99,14 +99,6 @@ An **AI-powered mobile application** designed to improve mental well-being throu
 
 ---
 
-## 📊 GitHub Stats
-
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasadmatloob&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadasadmatloob&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **muhammadasadmatloob214@gmail.com**  
