@@ -1,29 +1,119 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ASAD%20MATLOOB&fontSize=80&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%E2%80%A2%20AI%20%E2%80%A2%20MOBILE%20ENGINEER&descSize=20&descAlignY=62" width="100%" />
+# ⚡ Muhammad Asad Matloob
 
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Products;AI+Mental+Health+Innovator;Full-Stack+Architect;React+Native+Specialist" alt="Typing SVG" />
-</div>
+**Full-Stack Developer | AI & Chatbot Enthusiast | Mobile App Engineer**  
+🎓 BSCS @ DHA Suffa University (Class of 2026)  
+📍 Karachi, Pakistan  
 
 ---
 
-### 🧬 SYSTEM DIAGNOSTICS
-```yaml
-identity:
-  name: Muhammad Asad Matloob
-  role: Full-Stack Developer | AI Engineer (In Progress)
-  location: Karachi, Pakistan 🇵🇰
-  education: BSCS (Class of 2026) @ DHA Suffa University
-  mindset: [Build, Break, Learn, Scale]
-  status: "Optimizing Serenity.ai"
-📊 NEURAL NETWORK STATS<div align="center"><table border="0"><tr><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuhammadAsadMatloob214%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D36BCF7%26icon_color%3D36BCF7" height="170" /></td><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMuhammadAsadMatloob214%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D36BCF7" height="170" /></td></tr><tr><td colspan="2" align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMuhammadAsadMatloob214%26theme%3Dtokyonight%26hide_border%3Dtrue%26stroke%3D36BCF7%26ring%3D36BCF7%26fire%3D36BCF7" height="170" /></td></tr></table></div>🛠️ TECH ARSENALCATEGORYTOOLS & TECHNOLOGIESFrontendBackendDatabaseAI & Tools💼 PROFESSIONAL LOGSPakistan International Airlines (PIA) | Software Engineering InternJuly 2025 — September 2025⚡ Built enterprise-grade modules for PIACConnect.⚡ Leveraged ASP.NET and SQL Server for high-integrity data systems.⚡ Translated academic theory into production-ready software architecture.🎯 FINAL YEAR PROJECT: Serenity.aiAn AI-Powered Mental Health CompanionCode snippetgraph TD
-  User((User)) -- Interacts --> UI[React Native App]
-  UI -- Request --> LLM[AI Chatbot Engine]
-  LLM -- Emotional Analysis --> DB[(Secure Cloud Data)]
-  DB -- Context --> LLM
-  LLM -- Empathetic Response --> UI
-  style UI fill:#36BCF7,stroke:#fff,stroke-width:2px
-  style LLM fill:#A259FF,stroke:#fff,stroke-width:2px
-📈 CONTRIBUTION SPECTRUM📡 CONNECT WITH THE CORE<div align="center"><a href="mailto:muhammadasadmatloob214@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a><a href="https://www.linkedin.com/in/muhammad-asad-matloob-8299683a1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="http://muhammadasadmatloob.netlify.app"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" /></a></div><br /><div align="center"><img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" /></div><p align="center"><sub><b>System Status:</b> Online 🟢 | <b>Commit Strategy:</b> Atomic | <b>Coffee Level:</b> High ☕</sub></p>
-Would you like me to help you draft the **About Me** section for your personal portfolio website as well
+## 👨‍💻 About Me
+
+I’m a **Computer Science student** with strong hands-on experience in **full-stack web development, mobile apps, and AI-powered systems**.
+
+I have worked on **enterprise-level software** during my professional internship at **Pakistan International Airlines (PIA)** and enjoy building **scalable, clean, and future-ready applications**.
+
+I focus on:
+- 🚀 Real-world problem solving  
+- 🎨 Modern UI/UX  
+- 🤖 AI-driven solutions  
+- 📱 Mobile-first experiences  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js  
+- React Native  
+- HTML5, CSS3, JavaScript  
+- Tailwind CSS, Bootstrap  
+- Three.js, GSAP  
+
+### Backend
+- Node.js  
+- Express.js  
+- ASP.NET  
+- C#  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+
+### AI & Tools
+- Python (Basics)  
+- Machine Learning Concepts  
+- Prompt Engineering  
+- Git & GitHub  
+- VS Code, Visual Studio, Figma  
+
+---
+
+## 💼 Professional Experience
+
+### ✈️ Pakistan International Airlines (PIA)  
+**Software Development Intern**  
+📅 July 2025 – September 2025  
+
+- Worked on **enterprise internal systems**
+- Contributed to **PIACConnect** platform
+- Developed modules using **ASP.NET, C#, SQL**
+- Learned **software architecture, scalability & debugging**
+- Collaborated with professional engineering teams  
+
+---
+
+## 🎯 Final Year Project (2026)
+
+### 🧘 Serenity.ai — AI Mental Health App
+
+An **AI-powered mobile application** designed to improve mental well-being through **empathetic chatbot interactions**.
+
+**Key Features**
+- Emotional support & stress relief  
+- Intelligent conversational AI  
+- Simple, clean, accessible UI  
+- Secure data handling  
+
+**Tech Used**
+- React Native  
+- AI Chatbot (LLM-based)  
+- Backend APIs & database  
+
+---
+
+## 🌱 Currently Learning
+- Advanced React Native Architecture  
+- AI Chatbot System Design  
+- Backend Optimization  
+- UI/UX Micro-Interactions  
+
+---
+
+## 🎯 Interests
+- Mobile App Development  
+- Front-End UI/UX Design  
+- AI Chatbots  
+- Prompt Engineering  
+- Gym & Fitness  
+- Gaming  
+
+---
+
+## 📊 GitHub Stats
+
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasadmatloob&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadasadmatloob&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **muhammadasadmatloob214@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-asad-matloob-8299683a1  
+- 🌐 Portfolio: http://muhammadasadmatloob.netlify.app  
+
+---
+
+⭐ *Open to internships, collaborations, and future opportunities*  
+🚀 *Building the future — one project at a time.*
