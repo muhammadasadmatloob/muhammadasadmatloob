@@ -33,7 +33,6 @@ I focus on:
 ### Backend
 - Node.js  
 - Express.js  
-- ASP.NET  
 - C#  
 
 ### Databases
