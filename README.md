@@ -8,15 +8,25 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science student** with strong hands-on experience in **full-stack web development, mobile apps, and AI-powered systems**.
+I’m a **Computer Science student** with hands-on experience in **full-stack web development, mobile apps, and AI-powered systems**.
 
-I have worked on **enterprise-level software** during my professional internship at **Pakistan International Airlines (PIA)** and enjoy building **scalable, clean, and future-ready applications**.
+I’ve worked on **enterprise-grade software** during my internship at **Pakistan International Airlines (PIA)** and focus on building **scalable, clean, and future-ready applications**.
 
-I focus on:
-- 🚀 Real-world problem solving  
-- 🎨 Modern UI/UX  
-- 🤖 AI-driven solutions  
-- 📱 Mobile-first experiences  
+---
+
+## 📊 Developer Analytics (Live Graphs)
+
+### 🚀 GitHub Performance
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasadmatloob&show_icons=true&theme=tokyonight)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadasadmatloob&theme=tokyonight)
+
+### 📈 Languages & Code Focus
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasadmatloob&layout=compact&theme=tokyonight)
+
+### ⚡ Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadasadmatloob&theme=tokyo-night)
 
 ---
 
@@ -25,7 +35,7 @@ I focus on:
 ### Frontend
 - React.js  
 - React Native  
-- HTML5, CSS3, JavaScript  
+- HTML, CSS, JavaScript  
 - Tailwind CSS, Bootstrap  
 - Three.js, GSAP  
 
@@ -54,48 +64,30 @@ I focus on:
 **Software Development Intern**  
 📅 July 2025 – September 2025  
 
-- Worked on **enterprise internal systems**
-- Contributed to **PIACConnect** platform
-- Developed modules using **ASP.NET, C#, SQL**
-- Learned **software architecture, scalability & debugging**
-- Collaborated with professional engineering teams  
+- Developed enterprise internal systems  
+- Worked on PIACConnect platform  
+- Built modules using ASP.NET, C#, SQL  
+- Improved scalability & debugging skills  
 
 ---
 
-## 🎯 Final Year Project (2026)
+## 🎯 Final Year Project
 
 ### 🧘 Serenity.ai — AI Mental Health App
 
-An **AI-powered mobile application** designed to improve mental well-being through **empathetic chatbot interactions**.
+An **AI-powered mobile app** providing emotional support through an intelligent chatbot.
 
-**Key Features**
-- Emotional support & stress relief  
-- Intelligent conversational AI  
-- Simple, clean, accessible UI  
-- Secure data handling  
-
-**Tech Used**
-- React Native  
-- AI Chatbot (LLM-based)  
-- Backend APIs & database  
+- Empathetic conversations  
+- Clean & accessible UI  
+- Secure backend & data handling  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React Native Architecture  
-- AI Chatbot System Design  
+- Advanced React Native  
+- AI Chatbot Engineering  
 - Backend Optimization  
 - UI/UX Micro-Interactions  
-
----
-
-## 🎯 Interests
-- Mobile App Development  
-- Front-End UI/UX Design  
-- AI Chatbots  
-- Prompt Engineering  
-- Gym & Fitness  
-- Gaming  
 
 ---
 
@@ -107,5 +99,5 @@ An **AI-powered mobile application** designed to improve mental well-being throu
 
 ---
 
-⭐ *Open to internships, collaborations, and future opportunities*  
-🚀 *Building the future — one project at a time.*
+⭐ *Open to internships & collaborations*  
+🚀 *Building the future — one commit at a time.*
