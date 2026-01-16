@@ -143,11 +143,11 @@ An **AI-powered mobile application** designed to improve mental well-being throu
 
 ## 📊 GitHub Stats
 
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad Asad Matloob&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Muhammad Asad Matloob&theme=synthwave&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad Asad Matloob&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Asad's GitHub Stats
 
----
+GitHub Streak
+
+—
 
 [![](https://visitcount.itsvg.in/api?id=Muhammad Asad Matloob&icon=0&color=0)](https://visitcount.itsvg.in)
 
