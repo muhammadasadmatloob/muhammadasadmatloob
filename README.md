@@ -8,25 +8,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science student** with hands-on experience in **full-stack web development, mobile apps, and AI-powered systems**.
+I’m a **Computer Science student** with strong hands-on experience in **full-stack web development, mobile apps, and AI-powered systems**.
 
-I’ve worked on **enterprise-grade software** during my internship at **Pakistan International Airlines (PIA)** and focus on building **scalable, clean, and future-ready applications**.
+I have worked on **enterprise-level software** during my professional internship at **Pakistan International Airlines (PIA)** and enjoy building **scalable, clean, and future-ready applications**.
 
----
-
-## 📊 Developer Analytics (Live Graphs)
-
-### 🚀 GitHub Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasadmatloob&show_icons=true&theme=tokyonight)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadasadmatloob&theme=tokyonight)
-
-### 📈 Languages & Code Focus
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasadmatloob&layout=compact&theme=tokyonight)
-
-### ⚡ Contribution Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadasadmatloob&theme=tokyo-night)
+I focus on:
+- 🚀 Real-world problem solving  
+- 🎨 Modern UI/UX  
+- 🤖 AI-driven solutions  
+- 📱 Mobile-first experiences  
 
 ---
 
@@ -35,7 +25,7 @@ I’ve worked on **enterprise-grade software** during my internship at **Pakista
 ### Frontend
 - React.js  
 - React Native  
-- HTML, CSS, JavaScript  
+- HTML5, CSS3, JavaScript  
 - Tailwind CSS, Bootstrap  
 - Three.js, GSAP  
 
@@ -64,40 +54,57 @@ I’ve worked on **enterprise-grade software** during my internship at **Pakista
 **Software Development Intern**  
 📅 July 2025 – September 2025  
 
-- Developed enterprise internal systems  
-- Worked on PIACConnect platform  
-- Built modules using ASP.NET, C#, SQL  
-- Improved scalability & debugging skills  
+- Worked on **enterprise internal systems**
+- Contributed to **PIACConnect** platform
+- Developed modules using **ASP.NET, C#, SQL**
+- Learned **software architecture, scalability & debugging**
+- Collaborated with professional engineering teams  
 
 ---
 
-## 🎯 Final Year Project
+## 🎯 Final Year Project (2026)
 
 ### 🧘 Serenity.ai — AI Mental Health App
 
-An **AI-powered mobile app** providing emotional support through an intelligent chatbot.
+An **AI-powered mobile application** designed to improve mental well-being through **empathetic chatbot interactions**.
 
-- Empathetic conversations  
-- Clean & accessible UI  
-- Secure backend & data handling  
+**Key Features**
+- Emotional support & stress relief  
+- Intelligent conversational AI  
+- Simple, clean, accessible UI  
+- Secure data handling  
+
+**Tech Used**
+- React Native  
+- AI Chatbot (LLM-based)  
+- Backend APIs & database  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React Native  
-- AI Chatbot Engineering  
+- Advanced React Native Architecture  
+- AI Chatbot System Design  
 - Backend Optimization  
 - UI/UX Micro-Interactions  
+
+---
+
+## 🎯 Interests
+- Mobile App Development  
+- Front-End UI/UX Design  
+- AI Chatbots  
+- Prompt Engineering  
+- Gym & Fitness  
+- Gaming  
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: **muhammadasadmatloob214@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-asad-matloob-8299683a1  
-- 🌐 Portfolio: http://muhammadasadmatloob.netlify.app  
-
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-asad-matloob-8299683a1
+  
 ---
 
-⭐ *Open to internships & collaborations*  
-🚀 *Building the future — one commit at a time.*
+⭐ *Open to internships, collaborations, and future opportunities*  
+🚀 *Building the future — one project at a time.*
