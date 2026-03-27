@@ -140,6 +140,5 @@ An **AI-powered mobile application** designed to improve mental well-being throu
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Muhammad Asad Matloob&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
